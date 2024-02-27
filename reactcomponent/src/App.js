@@ -1,9 +1,10 @@
 
-import Clock from "./Clock";
+
+import DelayedMessageDisplay from "./DelayedMessageDisplay";
 function App() {
   return (
    
-   <Clock/>
+   <DelayedMessageDisplay/>
   );
 }
 

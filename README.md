@@ -25,4 +25,10 @@ Components<br>
 19.Alert Message In React<br>
 20.Font change functionality<br>
 21.Change Style(bold,itaic,underlined)of the text<br>
-22.Timer<br>
+22.Delayed Message Display (setTimeOut)<br>
+23.Timer<br>
+24.Dark Mode Toggle<br>
+25.Binary No Addition<br>
+26.Conver Text UpperCase To Lowercase<br>
+27.Convert Binary To Decimal<br>
+28.Convert Decimal To Binary<br>
