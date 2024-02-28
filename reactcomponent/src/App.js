@@ -1,10 +1,12 @@
 
 
-import DelayedMessageDisplay from "./DelayedMessageDisplay";
+
+import BinaryAdd from "./BinaryAdd";
+
 function App() {
   return (
    
-   <DelayedMessageDisplay/>
+   <BinaryAdd/>
   );
 }
 

@@ -15,7 +15,7 @@ function DatePickerCom  ()  {
       <DatePicker
         selected={selectedDate}
         onChange={handleDateChange}
-        dateFormat="dd/MM/yyyy" // Format the displayed date
+        dateFormat="dd/MM/yyyy" 
         placeholderText="Select a date"
       />
       {selectedDate && (
